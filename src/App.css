@@ -1,13 +1,6 @@
-h1 {
-    margin: 1em;
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
 
-li {
-    width: 500px;
-    padding: 10px;
-    margin: 5px;
-    background-color: rgb(205, 238, 255);
-    list-style: none;
-    text-align: left;
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(245, 245, 245);
 }
-
